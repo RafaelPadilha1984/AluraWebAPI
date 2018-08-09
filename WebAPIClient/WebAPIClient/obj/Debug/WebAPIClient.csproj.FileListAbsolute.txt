@@ -1,0 +1,13 @@
+C:\Users\rafab\source\repos\WebAPIClient\WebAPIClient\bin\Debug\WebAPIClient.exe.config
+C:\Users\rafab\source\repos\WebAPIClient\WebAPIClient\bin\Debug\WebAPIClient.exe
+C:\Users\rafab\source\repos\WebAPIClient\WebAPIClient\bin\Debug\WebAPIClient.pdb
+C:\Users\rafab\source\repos\WebAPIClient\WebAPIClient\obj\Debug\WebAPIClient.csprojAssemblyReference.cache
+C:\Users\rafab\source\repos\WebAPIClient\WebAPIClient\obj\Debug\WebAPIClient.csproj.CoreCompileInputs.cache
+C:\Users\rafab\source\repos\WebAPIClient\WebAPIClient\obj\Debug\WebAPIClient.exe
+C:\Users\rafab\source\repos\WebAPIClient\WebAPIClient\obj\Debug\WebAPIClient.pdb
+C:\Users\rafab\Documents\GitHub\Alura-WebAPI\WebAPIClient\WebAPIClient\bin\Debug\WebAPIClient.exe.config
+C:\Users\rafab\Documents\GitHub\Alura-WebAPI\WebAPIClient\WebAPIClient\bin\Debug\WebAPIClient.exe
+C:\Users\rafab\Documents\GitHub\Alura-WebAPI\WebAPIClient\WebAPIClient\bin\Debug\WebAPIClient.pdb
+C:\Users\rafab\Documents\GitHub\Alura-WebAPI\WebAPIClient\WebAPIClient\obj\Debug\WebAPIClient.csproj.CoreCompileInputs.cache
+C:\Users\rafab\Documents\GitHub\Alura-WebAPI\WebAPIClient\WebAPIClient\obj\Debug\WebAPIClient.exe
+C:\Users\rafab\Documents\GitHub\Alura-WebAPI\WebAPIClient\WebAPIClient\obj\Debug\WebAPIClient.pdb
